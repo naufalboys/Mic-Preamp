@@ -4,7 +4,5 @@ A simple mic preamp for interfacing a balanced microphone (3-Pin using XLR Conne
 
 ![alt text](https://raw.githubusercontent.com/naufalboys/Mic-Preamp/master/Microphone%20Preamp%20Schematic.jpg)
 
-![alt text](https://raw.githubusercontent.com/naufalboys/Mic-Preamp/master/Microphone%20Preamp%20Schematic.jpg)
-
 ![alt text](https://raw.githubusercontent.com/naufalboys/Mic-Preamp/master/Microphone-PreAmp%20Ray%20Tracing%202.png)
 
